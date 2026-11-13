@@ -1,0 +1,12 @@
+# RH294 Red Hat System Administration III Linux Automation
+## [01 Introducing Ansible](/docs/rh294_redhat_system_administration_iii_linux_automation/01-introducing-ansible/README.md)
+## [02 Deploying Ansible](/docs/rh294_redhat_system_administration_iii_linux_automation/02-deploying-ansible/README.md)
+## [03 Implementing Playbooks](/docs/rh294_redhat_system_administration_iii_linux_automation/03-implementing-playbooks/README.md)
+## [04 Managing Variables and Facts](/docs/rh294_redhat_system_administration_iii_linux_automation/04-managing-variables-and-facts/README.md)
+## [05 Implementing Task Control](/docs/rh294_redhat_system_administration_iii_linux_automation/05-implementing-task-control/README.md)
+## [06 Deploying Files to Managed Hosts](/docs/rh294_redhat_system_administration_iii_linux_automation/06-deploying-files-to-managed-hosts/README.md)
+## [07 Managing Large Projects](/docs/rh294_redhat_system_administration_iii_linux_automation/07-managing-large-projects/README.md)
+## [08 Simplifying Playbooks with Roles](/docs/rh294_redhat_system_administration_iii_linux_automation/08-simplifying-playbooks-with-roles/README.md)
+## [09 Troubleshooting Ansible](/docs/rh294_redhat_system_administration_iii_linux_automation/09-troubleshooting-ansible/README.md)
+## [10 Automating Linux Administration Tasks](/docs/rh294_redhat_system_administration_iii_linux_automation/10-automating-linux-administration-tasks/README.md)
+## Return to [Red Hat Linux](/README.md)
